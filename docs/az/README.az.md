@@ -1,5 +1,9 @@
 # Süni İntellekt ilə Adaptiv Optik Modulyasiya
 
+> 🌐 [English](../../README.md) · [Русский](../ru/README.ru.md)
+
+> 📄 [CHANGELOG](CHANGELOG.az.md) · [STATUS](STATUS.az.md)
+
 Bu repozitoriya **neyron şəbəkəsinin proqnozu ilə gücləndirilmiş adaptiv optik modulyasiyanın** istinad tətbiqini təqdim edir.
 Layihə, optik modulyasiya parametrlərini dinamik olaraq proqnozlaşdırmaq və tənzimləmək üçün neyron şəbəkələrinin öyrədilməsini və tətbiqini nümayiş etdirir, ənənəvi üsullarla müqayisədə səmərəliliyi və dəqiqliyi artırmağı hədəfləyir.
 Buradakı bütün kod orijinaldır və həm neyron şəbəkəsinin öyrədilməsi, həm də optik modulyasiya alqoritmi üçün tam reproduksiya oluna bilən iş axını təmin edir.  
